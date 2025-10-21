@@ -1,0 +1,10 @@
+# Temporary processing files
+/tmp/
+*.tmp
+*.temp
+
+# Build artifacts
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
